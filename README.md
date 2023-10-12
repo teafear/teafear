@@ -17,4 +17,3 @@
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
   
-https://github.com/5eafear/5eafear/blob/main/icon/python-logo-only.png
